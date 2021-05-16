@@ -72,7 +72,7 @@
 
 #thanks {
   position: absolute;
-  top: 100%;
+  bttom: 0;
   display: flex;
   background: black;
   width: 100%;
